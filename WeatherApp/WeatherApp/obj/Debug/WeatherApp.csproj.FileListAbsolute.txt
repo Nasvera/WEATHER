@@ -1,0 +1,5 @@
+c:\users\nasvera\documents\visual studio 2013\Projects\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+c:\users\nasvera\documents\visual studio 2013\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+c:\users\nasvera\documents\visual studio 2013\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+c:\users\nasvera\documents\visual studio 2013\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+c:\users\nasvera\documents\visual studio 2013\Projects\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.Cache
